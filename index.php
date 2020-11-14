@@ -11,7 +11,7 @@ session_start();
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Academic Warehouse</title>
+		<title>Academics Warehouse</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
