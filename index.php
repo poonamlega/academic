@@ -11,9 +11,9 @@ session_start();
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Academics Warehouse</title>
+		<title>Academic Warehouse</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
+		<meta name="descgitription" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
